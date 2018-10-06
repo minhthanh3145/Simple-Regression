@@ -7,3 +7,5 @@ Simple Regression Assignment - First week of "Machine Learning: Regression" cour
 - Write a function to make predictions of the output given the input feature.
 - Turn the regression around to predict the input given the output.
 - Compare two different models for predicting house prices.
+
+View my [Trello board](https://trello.com/b/NKvz4xVY/machine-learning-regression) to follow my journey.
